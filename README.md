@@ -24,3 +24,9 @@ This project was developed as part of a group project.
 
 ## Team Members
 Group Project
+
+## Live Demo
+
+Visit the website here:
+
+https://flavourcode.netlify.app/
